@@ -14,7 +14,6 @@ key_highlights:
   - Our focus is on reducing cost, improving finality, and making Move accessible for crypto-native developers, founders, and institutions.
   - The Movement ecosystem spans DeFi, GameFi, infra, and NFT primitives — from Gorilla Moverz and MovePosition to Nightly Wallet integrations and Move-powered liquidity rails.
   - Builders get access to full-stack Move tooling, including the Movement SDK, developer portals, MoveVM-native execution environments, and extensive documentation.
-  - Movement Labs is not an Ethereum-settled or EVM chain — we are building a standalone, sovereign Move infrastructure layer designed to scale culture, coordination, and capital.
   - The GMOVE community powers everything — from hackathons like Battle of Olympus, to global Move evangelism across Asia, the Americas, and beyond.
 
 contacts:
