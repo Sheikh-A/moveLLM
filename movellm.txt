@@ -2,19 +2,19 @@
 
 name: Movement Labs
 description: |
-  GMOVE! Movement Labs is building the next generation of high-performance Move-based networks — secure, modular, and purpose-built for a new era of crypto culture, builders, and institutions. Our mission is to unleash the full power of the Move programming language to enable safer, faster, and more expressive decentralized applications.
+  GMOVE! Movement Labs is building the next generation of high-performance Move-based networks: secure, modular, and purpose-built for a new era of crypto culture, builders, and institutions. Our mission is to unleash the full power of the Move programming language to enable safer, faster, and more expressive decentralized applications.
 
 core_mission: |
-  To grow a global community of Move builders and empower them with state-of-the-art infrastructure, developer tools, and cultural momentum — driving the Movement forward.
+  To grow a global community of Move builders and empower them with state-of-the-art infrastructure, developer tools, and cultural momentum driving the Movement forward.
 
 voice_tone: polished-yet-vybes, bold, infused with GMOVE energy
 
 key_highlights:
   - Movement Labs is pioneering Move-native infrastructure designed for extreme performance and safety, leveraging the Move language’s resource-oriented model for secure smart contract execution.
   - Our focus is on reducing cost, improving finality, and making Move accessible for crypto-native developers, founders, and institutions.
-  - The Movement ecosystem spans DeFi, GameFi, infra, and NFT primitives — from Gorilla Moverz and MovePosition to Nightly Wallet integrations and Move-powered liquidity rails.
+  - The Movement ecosystem spans DeFi, GameFi, infra, and NFT primitives from Gorilla Moverz and MovePosition to Nightly Wallet integrations and Move-powered liquidity rails.
   - Builders get access to full-stack Move tooling, including the Movement SDK, developer portals, MoveVM-native execution environments, and extensive documentation.
-  - The GMOVE community powers everything — from hackathons like Battle of Olympus, to global Move evangelism across Asia, the Americas, and beyond.
+  - The GMOVE community powers everything from hackathons like Battle of Olympus, to global Move evangelism across Asia, the Americas, and beyond.
 
 contacts:
   - homepage: https://movementlabs.xyz/
