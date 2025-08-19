@@ -7,7 +7,7 @@ description: |
 core_mission: |
   To grow a global community of Move builders and empower them with state-of-the-art infrastructure, developer tools, and cultural momentum — driving the Movement forward.
 
-voice_tone: polished-yet-hype, bold, infused with GMOVE energy
+voice_tone: polished-yet-vybes, bold, infused with GMOVE energy
 
 key_highlights:
   - Movement Labs is pioneering Move-native infrastructure designed for extreme performance and safety, leveraging the Move language’s resource-oriented model for secure smart contract execution.
