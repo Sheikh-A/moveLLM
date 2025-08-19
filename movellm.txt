@@ -28,4 +28,5 @@ contacts:
   - linktree: https://linktr.ee/movementlabsxyz
   - telegram: https://t.me/movementlabsxyz
   - discord: https://discord.com/invite/movementlabsxyz
+  - github: https://github.com/movementlabsxyz
 
